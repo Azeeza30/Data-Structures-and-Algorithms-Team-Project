@@ -17,10 +17,10 @@ as required by the assignment brief.
 
 | # | Full Name | Student ID | Assigned Responsibility | Individual Contribution |
 |---|-----------|-----------|--------------------------|--------------------------|
-| 1 |           |           | Linked list implementation and student-record management | |
-| 2 |           |           | Stack and queue implementation and related operations | |
-| 3 |           |           | BST/AVL tree implementation and hashing/search functionality | |
-| 4 |           |           | Graph implementation, campus locations, connections, and BFS/DFS traversal | |
+| 1 |  Ms.Hassana         |  23DA2-0565         | Linked list implementation and student-record management | |
+| 2 | S.Sulachchika          |     23DA2-1178      | Stack and queue implementation and related operations | |
+| 3 |   AF.Azeeza        |    23DA2-0494       | BST/AVL tree implementation and hashing/search functionality | |
+| 4 |          MRH.Mahmooth |   23DA2-542        | Graph implementation, campus locations, connections, and BFS/DFS traversal | |
 | — | All Members | — | Integration, validation, testing, debugging, documentation, GitHub collaboration | |
 
 *If your group has fewer than 4 members, combine the roles above among the
@@ -65,12 +65,11 @@ StudentCampusSystem/
 
 ## 5. How to Compile and Run
 
-From the `src/` directory, using the JDK (Java 11+):
+From the project root directory, using the JDK (Java 11+):
 
-```bash
-javac -d ../bin *.java
-cd ../bin
-java Main
+```powershell
+javac -d bin src\*.java
+java -cp bin Main
 ```
 
 ## 6. Menu
