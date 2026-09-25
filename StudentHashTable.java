@@ -19,7 +19,7 @@ public class StudentHashTable {
     }
 
     // Search student
-    public Student search(int studentId) {
+   public Student search(int studentId) {
 
         return table.get(studentId);
     }
