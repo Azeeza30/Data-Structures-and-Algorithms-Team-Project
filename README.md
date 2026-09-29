@@ -17,11 +17,11 @@ folders and standalone demos.
 
 | # | Full Name | Student ID | Assigned Responsibility | Individual Contribution |
 |---|-----------|-----------|--------------------------|--------------------------|
-| 1 |  Ms.Hassana         |  23DA2-0565         | Linked list implementation and student-record management | |
-| 2 | S.Sulachchika          |     23DA2-1178      | Stack and queue implementation and related operations | |
-| 3 |   AF.Azeeza        |    23DA2-0494       | BST/AVL tree implementation and hashing/search functionality | |
-| 4 |          MRH.Mahmooth |   23DA2-542        | Graph implementation, campus locations, connections, and BFS/DFS traversal | |
-| — | All Members | — | Integration, validation, testing, debugging, documentation, GitHub collaboration | |
+| 1 |  Ms.Hassana         |  23DA2-0565         | Linked list implementation and student-record management | Implemented student-record management and linked-list CRUD operations; added the Member 1 demo. |
+| 2 | S.Sulachchika          |     23DA2-1178      | Stack and queue implementation and related operations | Implemented linked stack and queue operations for action history and service requests; added the Member 2 demo. |
+| 3 |   AF.Azeeza        |    23DA2-0494       | BST/AVL tree implementation and hashing/search functionality | Implemented student-ID organization with a binary search tree and lookup with a chained hash table. |
+| 4 |          MRH.Mahmooth |   23DA2-542        | Graph implementation, campus locations, connections, and BFS/DFS traversal | Implemented campus location and connection management using an adjacency list, with BFS/DFS traversal and a demo. |
+| — | All Members | — | Integration, validation, testing, debugging, documentation, GitHub collaboration | Collaborated on project validation, debugging, documentation, and GitHub work. |
 
 *If your group has fewer than 4 members, combine the roles above among the
 members you have. Every component, including the graph, is still compulsory.*
